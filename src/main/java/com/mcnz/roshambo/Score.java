@@ -6,7 +6,7 @@ public class Score {
 	public int losses;
 	public int ties;
 
-	public int d test_score;
+	public int test_score;
 
 
 }
